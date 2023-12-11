@@ -1,4 +1,4 @@
-# Shopify-theme
+# Turbo Theme V9.2.0 (Shopify)
 Bug fix and major update in CSS
 Theme optimization
 
